@@ -5,7 +5,7 @@ import * as Pages from "../pages";
       component: Pages.Threejs,
       protectedRoute: false,
       nav: {
-        show: false,
+        show: true,
         icon: <></>,
         name: "Threejs",
       },
